@@ -29,9 +29,9 @@ To view the simulation simply click on 'start simulation'
 * Simulation for  [buttons with LCD](https://www.tinkercad.com/things/jpo5ouY8yAN) 
 * Simulation for  [fall alert](https://www.tinkercad.com/things/lCy6VK0r6lv) 
 * Simulation for  [headlights](https://www.tinkercad.com/things/7D5uT1bKfVC) 
-<!-- 
-### Video for 3D Model
-![Video]() -->
+
+### 3D Model
+Checkout or .blend file to view the 3D Model of the wheelchair
 
 
 ### Presentation
